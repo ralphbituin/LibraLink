@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+
+# Output directories
+out/
+build/
+bin/
+target/
+
+# Log and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# JetBrains IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+.classpath*
+.project*
+
+# VS Code
+.vscode/
+
+# Maven
+.mvn/
+wrapper/
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+Desktop.ini
